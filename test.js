@@ -1,1 +1,1 @@
-var code = 5;
+let code = 5;
